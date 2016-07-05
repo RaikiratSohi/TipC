@@ -4,6 +4,7 @@ TipC is a tip calculator application for iOS.
 
 Submitted by: **Raikirat Sohi**
 
+WORKING ON IT 
 Time spent: -- hours spent in total
 
 ## User Stories
