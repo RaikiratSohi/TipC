@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		688A9ED91D34313300E5979B /* SttingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 688A9ED81D34313300E5979B /* SttingsViewController.swift */; };
 		68FB29F41D25DCBB0047FBAB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68FB29F31D25DCBB0047FBAB /* AppDelegate.swift */; };
 		68FB29F61D25DCBB0047FBAB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68FB29F51D25DCBB0047FBAB /* ViewController.swift */; };
 		68FB29F91D25DCBB0047FBAB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 68FB29F71D25DCBB0047FBAB /* Main.storyboard */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		688A9ED81D34313300E5979B /* SttingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SttingsViewController.swift; sourceTree = "<group>"; };
 		68FB29F01D25DCBB0047FBAB /* TipC.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TipC.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		68FB29F31D25DCBB0047FBAB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		68FB29F51D25DCBB0047FBAB /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -100,6 +102,7 @@
 				68FB29F31D25DCBB0047FBAB /* AppDelegate.swift */,
 				68FB29F51D25DCBB0047FBAB /* ViewController.swift */,
 				68FB29F71D25DCBB0047FBAB /* Main.storyboard */,
+				688A9ED81D34313300E5979B /* SttingsViewController.swift */,
 				68FB29FA1D25DCBB0047FBAB /* Assets.xcassets */,
 				68FB29FC1D25DCBB0047FBAB /* LaunchScreen.storyboard */,
 				68FB29FF1D25DCBB0047FBAB /* Info.plist */,
@@ -257,6 +260,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				68FB29F61D25DCBB0047FBAB /* ViewController.swift in Sources */,
+				688A9ED91D34313300E5979B /* SttingsViewController.swift in Sources */,
 				68FB29F41D25DCBB0047FBAB /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
